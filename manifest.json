@@ -1,0 +1,12 @@
+{
+    "short_name":"PWA APP",
+    "display" : "standalone"  ,
+    "start_url" : "/" ,
+    "theme_color" : "#8B8BFF",  
+    "background_color": "#aaaaff",
+    "icons":[{
+        "src":"fr.png",
+        "sizes":"120x120",
+        "type":"image/png"
+    }]
+}
